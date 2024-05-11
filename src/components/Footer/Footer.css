@@ -1,0 +1,36 @@
+.caixinha{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; 
+    padding: 100px 150px;
+    background-color: #fff;
+    align-items: center;
+}
+.item img{
+    width: 70%;
+}
+.item h3{
+    font-size: 1.8rem;
+    align-items: center;
+}
+.item ul li {
+    padding: 0.45rem;
+    margin-top: 8px;
+}
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 150px;
+    border-top: 2px solid rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.termos{
+display:flex;
+padding: 12px 6px;
+align-items: center;
+text-align: center;
+}
+.termos li a{
+    padding: 2.4rem;
+}

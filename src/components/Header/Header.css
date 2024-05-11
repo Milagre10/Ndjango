@@ -1,0 +1,29 @@
+.caixa{
+    max-width: 1980px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+.menu_link.left{
+    margin-left: 10px;
+}
+.logo img {
+    width: 65%;
+    height: 60%;
+    margin-left: 40px;
+    padding: 15px 0;
+    margin-left: 50px;
+  }
+  .menu_link{
+    display: flex;
+  }
+  .menu_link li a{
+    padding:0.9rem;
+    text-align: center;
+    
+
+  }
+  .copyright{
+    display: flex;
+  }

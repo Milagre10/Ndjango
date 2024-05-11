@@ -1,0 +1,43 @@
+.container{
+    width: 24%;
+    margin-bottom: 12px;
+    background-color: #fff;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.1);
+}
+.img{
+    width: 100%;
+}
+.img img{
+    width: 100%;
+    height: auto;
+
+}
+.description{
+    padding: 12px;
+
+}
+.description a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #15181C;
+}
+.description h4{
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.description span{
+    margin-top:  12px;
+    display: block;
+}
+.itens{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+
+}
+.itens span{
+    margin-bottom: 10px;
+}
